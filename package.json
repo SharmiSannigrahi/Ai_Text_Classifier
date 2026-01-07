@@ -1,0 +1,13 @@
+{
+  "name": "text-classifier",
+  "version": "1.0.0",
+  "description": "AI Assisted Text Classification API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^16.3.1"
+  }
+}
